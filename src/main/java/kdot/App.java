@@ -1,7 +1,6 @@
 package kdot;
 
 /**
- * Hello world!
  *
  */
 public class App 
